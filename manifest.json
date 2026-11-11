@@ -1,0 +1,9 @@
+{
+    "name": "Mi Perfil Digital App",
+    "short_name": "MiPerfil",
+    "star_url": "index.html",
+    "display": "standalone",
+    "background_color": "#121212",
+    "theme_color": "#007bff",
+    "orientacion": "portrait"
+}
